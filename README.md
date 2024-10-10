@@ -10,6 +10,41 @@
 
 - [Preliminary proposal to add a new provisional kIDS property (Unihan)](https://www.unicode.org/L2/L2021/21118-kids-preliminary.pdf)：关于增加IDC和部件字符的提案 
 
+## 字表
+
+- [常用國字標準字體表(台灣)](https://github.com/ButTaiwan/cjktables/blob/master/taiwan/edu_standard_1.txt):  4,808字 
+
+- [次常用國字標準字體表(台灣)](https://github.com/ButTaiwan/cjktables/blob/master/taiwan/edu_standard_2.txt):  6,343字 
+
+
+## 部首
+- [部首手冊(台灣教育部)](https://language.moe.gov.tw/001/Upload/FILES/SITE_CONTENT/M0001/BUSHOU/F3.HTML)
+
+
+
+
+## 在线字典和综合汉字信息
+- [汉典](https://www.zdic.net/) 
+
+- [小学堂](https://xiaoxue.iis.sinica.edu.tw/)
+
+- [汉字全息资源应用系统](https://qxk.bnu.edu.cn/#/)
+
+- [叶典](http://yedict.com/)
+
+- [zi.tools 字統网](https://zi.tools/)
+
+- [字嗨](https://zi-hi.com/)
+
+- [異體字字典(台灣教育部)](https://dict.variants.moe.edu.tw/)
+
+- [重編國語辭典修訂本(台灣教育部)](https://dict.revised.moe.edu.tw/index.jsp)
+
+- [古今文字集成](www.ccamc.org)
+
+- [千千秀字](https://www.qqxiuzi.cn/)
+
+
 ## 汉字拆分和部件
 
 - [BabelStone IDS](https://babelstone.co.uk/CJK/IDS.HTML):  [BabelStone](https://babelstone.co.uk) 的 Unicode 汉字拆分 IDS
@@ -21,22 +56,8 @@
 
 - [字浩输入法字根字体PUA](https://yuhao.forfudan.com/docs/yuniversus): [宇浩输入法](https://yuhao.forfudan.com)用于显示特殊字根的PUA字体以及字根表
 
-
-## 在线字典和综合汉字信息
-- [汉典](https://www.zdic.net/) :  始建于2004年的老牌在线辞典，收录了93898个汉字、361998个词语、短语和词组，以及32868成语的释义
-
-- [小学堂](https://xiaoxue.iis.sinica.edu.tw/): 一個形、音、義綜合的文字學資料庫
-
-- [汉字全息资源应用系统](https://qxk.bnu.edu.cn/#/): 北京师范大学汉字汉语实验室开发的，基于汉字构形学的汉字信息系统
-
-- [叶典](http://yedict.com/): 收字14.6万的在线字典
-
-- [zi.tools 字統网](https://zi.tools/): 漢字源、形、音、義、碼网羅站點
-
-- [古今文字集成](www.ccamc.org): 一個集古今文字释義、字形更革、音韻演變之大全的大型在線辭書，并包含西夏文、契丹文、女真文、八思巴文、女書等少数民族文字
-
-- [千千秀字](https://www.qqxiuzi.cn/): 一个文字主题网站，在于了解和学习文字这一文化载体和文字艺术应用。提供文字翻译、字体转换、字效生成等在线服务的同时，也关注着文字的历史和文字的各行应用
-
+## 字体
+- [國字標準字體(台灣教育部)](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436)
 
 
 
